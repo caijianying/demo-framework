@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=com.apollo.config.ApolloContextInitializer
+org.springframework.boot.env.EnvironmentPostProcessor=com.apollo.config.ApolloEnvironmentPostProcessor
